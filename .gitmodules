@@ -4,9 +4,6 @@
 [submodule "Completed/hotel-harmony"]
 	path = Completed/hotel-harmony
 	url = https://github.com/bhattchintan8540-cmd/hotel-harmony.git
-[submodule "Completed/app-insights-unlocked"]
-	path = Completed/app-insights-unlocked
-	url = https://github.com/bhattchintan8540-cmd/app-insights-unlocked.git
 [submodule "Ongoing/Supply-Prescript"]
 	path = Ongoing/Supply-Prescript
 	url = https://github.com/bhattchintan8540-cmd/Supply-Prescript.git
